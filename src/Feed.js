@@ -9,7 +9,7 @@ import ShoppingCartCheckoutOutlinedIcon from '@mui/icons-material/ShoppingCartCh
 import Deliveryoption from './Deliveryoption';
 import InfoIcon from '@mui/icons-material/Info';
 import ProgressBar from "@ramonak/react-progress-bar";
-import { Chart, PieController, registerables } from 'chart.js';
+import { Chart,  registerables } from 'chart.js';
 import { Pie } from "react-chartjs-2";
 import { Line } from 'react-chartjs-2';
 
