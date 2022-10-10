@@ -1,0 +1,23 @@
+.delivery_status{
+    display: flex;
+    align-items: center;
+    
+}
+.delivery_card>h4{
+    font-size:1.5rem;
+    font-family: 'Montserrat', sans-serif;
+
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 1px;
+    
+}
+.delivery_status>h6{
+    font-size:10px;
+    font-family: 'Montserrat', sans-serif;
+color: gray;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 1px;
+    
+}

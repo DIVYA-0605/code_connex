@@ -1,0 +1,40 @@
+.delivery{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 75px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    /* box-shadow: 3px 3px 3px  #aaaaaa; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.delivery_name{
+    font-size:12px;
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 4px;
+    
+}
+.delivery_subtitle{
+    font-size:12px;
+    font-family: 'Montserrat', sans-serif;
+    
+    font-style: normal;
+    font-weight: 600;
+    
+}
+.delivery_cards{
+    margin-left: 14px;
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+  
+  
+  
+}
